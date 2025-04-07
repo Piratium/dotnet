@@ -13,7 +13,7 @@
             Console.Write("Введите кол-во людей: ");
             int numOfPeople = Convert.ToInt32(Console.ReadLine());
 
-            // Чаевые в общем
+            // Чаевые в общем 
             decimal tips = Math.Round((tipsPercent / 100) * billAmount, 2);
             Console.WriteLine($"Чаевые: {tips} руб");
 
