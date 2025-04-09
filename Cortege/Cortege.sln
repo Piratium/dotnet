@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cortege", "Cortege\Cortege.csproj", "{6A420E89-01E1-4383-B22F-455C830FC1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A420E89-01E1-4383-B22F-455C830FC1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A420E89-01E1-4383-B22F-455C830FC1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A420E89-01E1-4383-B22F-455C830FC1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A420E89-01E1-4383-B22F-455C830FC1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34474149-60BA-4ABD-87A5-E2ED2EA49520}
+	EndGlobalSection
+EndGlobal
